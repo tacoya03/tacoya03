@@ -32,7 +32,7 @@
 - 💡 **무대 조명 오퍼레이팅** (Stage Lighting Operating)
 
 ---
-### 🚀 Projects 1
+### 🚀 Project 1
 
 ### 🏢 방문자 확인 시스템
 
@@ -41,7 +41,7 @@
 [🔗 Repository](https://github.com/VisitorVerification)
 
 ---
-### 🚀 Projects 2
+### 🚀 Project 2
 
 ### 🐈 고양이 돌봄 시스템 (Cat's Eyes)
 

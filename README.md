@@ -8,9 +8,8 @@
   반도체를 중심으로 하드웨어와 소프트웨어를 함께 공부하고 있습니다 🔬
 </p>
 
-<br>
-
-## 📖 Fields of Study
+---
+### 📖 Fields of Study
 
 <p align="center">
   <img src="https://img.shields.io/badge/Semiconductor-8E44AD?style=flat-square&logo=probot&logoColor=white" height="28" />
@@ -20,32 +19,31 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" height="28" />
 </p>
 
-<br>
-
-## 🏅 Experience
+---
+### 🏅 Experience
 
 - 👑 **컴퓨터공학전공 제7대 학회장** (*Algorithm*)
 - 🚀 **코딩동아리 "HAM" 회장**
 
-<br>
-
-## 🎨 Hobby
+---
+### 🎨 Hobby
 
 - 🥋 **태권도** (Taekwondo)
 - 💡 **무대 조명 오퍼레이팅** (Stage Lighting Operating)
 
-<br>
-
-## 🚀 Projects
+---
+### 🚀 Projects 1
 
 ### 🏢 방문자 확인 시스템
-[🔗 Repository](https://github.com/VisitorVerification)
 
 얼굴 인식으로 등록자는 자동 출입, 미등록자는 카운터로 안내하는 기업 방문자 확인 시스템
 
+[🔗 Repository](https://github.com/VisitorVerification)
+
 ---
+### 🚀 Projects 2
+
 ### 🐈 고양이 돌봄 시스템 (Cat's Eyes)
-[🔗 Repository](https://github.com/Cat-s-Eyes)
 
 라즈베리파이 4를 활용한 스마트 고양이 돌봄 시스템
 
@@ -54,7 +52,7 @@
 - 🍽️ 식사 및 배변 기록
 - 🔔 알림 기능
 
-<br>
+[🔗 Repository](https://github.com/Cat-s-Eyes)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
